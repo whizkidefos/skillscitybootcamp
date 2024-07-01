@@ -1,0 +1,17 @@
+Short video:
+https://youtu.be/Zqn4Sxz2c50?si=WxrwKnsWkCvU1qnY
+ 
+Date time in detail:
+https://youtu.be/ekX6Mgi3TWE?si=bhCB9ZWVS2Opizp3
+ 
+Website short reading: 
+https://www.pluralsight.com/resources/blog/guides/using-date-time-data-types-functions-sql-server 
+ 
+Web detailed reading: 
+https://learn.microsoft.com/en-us/sql/t-sql/data-types/datetime-transact-sql?view=sql-server-ver16 
+ 
+Further reading: 
+https://scholar.google.com/scholar?hl=pl&as_sdt=0%2C5&q=datatime+sql&btnG= 
+ 
+Documentation -> functions and operators -> date and time functions 
+https://dev.mysql.com/doc/refman/8.4/en/date-and-time-functions.html
